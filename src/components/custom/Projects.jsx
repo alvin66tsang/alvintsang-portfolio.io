@@ -80,7 +80,7 @@ const Projects = () => {
     ];
 
     return (
-        <section id="projects" className="px-4 my-32 w-full scroll-m-6">
+        <section id="projects" className="px-4 my-32 w-full scroll-m-6 pt-20">
             <h1 className="text-center text-4xl font-bold">Projects</h1>
             <h3 className="text-center text-2xl text-muted-foreground mt-4">
                 My Current Work

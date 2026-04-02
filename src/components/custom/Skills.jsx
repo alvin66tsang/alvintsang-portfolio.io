@@ -76,7 +76,7 @@ const Skills = () => {
         },
     ];
     return (
-        <section id="skills" className="my-32 w-full px-4 scroll-m-6">
+        <section id="skills" className="my-32 w-full px-4 scroll-m-6 pt-20">
             <h1 className="text-center text-4xl font-bold">Technical Skills</h1>
             <div className="my-4 px-4 grid grid-cols-1 lg:grid-cols-3 gap-4 justify-items-center">
                 {skillCategories.map(({title, skills}, index) => {
