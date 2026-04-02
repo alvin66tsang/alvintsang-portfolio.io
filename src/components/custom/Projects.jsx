@@ -80,9 +80,9 @@ const Projects = () => {
     ];
 
     return (
-        <section className="projects px-4 my-32 w-full">
-            <h1 className="text-centertext-4xl font-bold">Projects</h1>
-            <h3 className="text-centertext-2xl text-muted-foreground mt-4">
+        <section id="projects" className="px-4 my-32 w-full scroll-m-6">
+            <h1 className="text-center text-4xl font-bold">Projects</h1>
+            <h3 className="text-center text-2xl text-muted-foreground mt-4">
                 My Current Work
             </h3>
             <div className="grid md:grid-cols-3 grid-cols-1 w-full my-12 gap-8 px-8">
